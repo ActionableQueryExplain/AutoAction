@@ -2,7 +2,7 @@
 
 Automated Generation of Actionable Query Explanations
 
-Full technicial report is available through autoaction_tech_report.pdf
+Full technicial report is available through `autoaction_tech_report.pdf`
 
 
 # Setup
